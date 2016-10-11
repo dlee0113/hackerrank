@@ -1,4 +1,4 @@
-package hackerrank.linkedlistdetectacycle;
+package com.hackerrank.linkedlistdetectacycle;
 
 public class Solution {
 	public static void main(String[] args) {
